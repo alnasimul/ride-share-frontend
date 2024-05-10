@@ -98,7 +98,7 @@ const handleVerification = () => {
 }
 
 console.log(localStorage.getItem('token'))
-console.log(router)
+
 
 </script>
 
